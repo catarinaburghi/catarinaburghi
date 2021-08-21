@@ -13,7 +13,7 @@ And if you ever want to chat and don't know how to start a conversation with me 
 
 Here is how you can reach me: 
 
-[Email](cf.burghi@gmail.com)
+My Email: cf.burghi@gmail.com
 
 [Instagram](https://www.instagram.com/catarina_burghi/)
 
