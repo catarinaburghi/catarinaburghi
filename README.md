@@ -1,7 +1,7 @@
 ### Hello there 👋
 *General Kenobi*
 
-I'm a high school student involved with [First Robotics Competition](https://www.firstinspires.org/robotics/frc) with team [5024 Raider Robotics](https://github.com/frc5024), for now I've helped the team program 2 award-winning robots from our 2020 season [Darth Raider](https://github.com/frc5024/InfiniteRecharge) and the 2022 season[Guillotine](https://github.com/frc5024/RapidReact). 
+I'm a high school student involved with [First Robotics Competition](https://www.firstinspires.org/robotics/frc) with team [5024 Raider Robotics](https://github.com/frc5024), for now I've helped the team program 2 award-winning robots from our 2020 season [Darth Raider](https://github.com/frc5024/InfiniteRecharge) and the 2022 season [Guillotine](https://github.com/frc5024/RapidReact). 
 
 I usually won't be working on many big projects at once, but here on my github you'll find small projects like all my homework from my [grade 11 computer science class](https://github.com/catarinaburghi/ICS3U) and all of my work from my [grade 12 computer science class](https://github.com/catarinaburghi/ICS4U) in school.
 
