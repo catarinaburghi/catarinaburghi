@@ -1,15 +1,11 @@
 ### Hello there 👋
 *General Kenobi*
 
-I'm a high school student involved with [First Robotics Competition](https://www.firstinspires.org/robotics/frc) with team [5024 Raider Robotics](https://github.com/frc5024), for now I've helped the team program 2 award-winning robots from our 2020 season [Darth Raider](https://github.com/frc5024/InfiniteRecharge) and the 2022 season [Guillotine](https://github.com/frc5024/RapidReact). 
+I'm a high school student involved with [First Robotics Competition](https://www.firstinspires.org/robotics/frc) with team [5024 Raider Robotics](https://github.com/frc5024), for now I've helped the team program 3 award-winning robots from our 2020 season [Darth Raider](https://github.com/frc5024/InfiniteRecharge) and the 2022 season [Guillotine](https://github.com/frc5024/RapidReact). And in my final year I helped team 5024 program [Juice Box](https://github.com/frc5024/Charged-Up), Juice Box is the robot that brought 5024 back into the World Championship. 
 
-I usually won't be working on many big projects at once, but here on my github you'll find small projects like all my homework from my [grade 11 computer science class](https://github.com/catarinaburghi/ICS3U) and all of my work from my [grade 12 computer science class](https://github.com/catarinaburghi/ICS4U) in school.
+I'm attending McMaster University in the fall for my first year in the Automotive and Vehicle Engineering (BTech) program. And will be mentoring FRC Team 4039 (Makeshift Robotics)[https://4039.ca/]. I'm very excited to be part of this team this upcoming year. 
 
-Some bigger projects I have are my [website](https://catarinaburghi.xyz/), and in the start of 2021 I participated in a 24 hour [STEAMATHON](https://www.firstroboticscanada.org/stemathon/) with First Robotics Canada. My Team and I *(Team 20)* managed with a lot of teamwork and thinking, to win the *"Best Product Award"* after designing a [product](https://catarinaburghi.xyz/blog/2021/03/31/stemathon) to help people from all ages with disabilities to go swimming safely!
-
-I love learning about things I have no idea *exist* I'm always free to help out with any projects I could be useful for! 
-
-And if you ever want to chat and don't know how to start a conversation with me just ask *"How is this formula 1 season going?"* I promise I'll get to you as fast as I can 😄
+And in the start of 2021 I participated in a 24 hour [STEAMATHON](https://www.firstroboticscanada.org/stemathon/) with First Robotics Canada. My Team and I *(Team 20)* managed with a lot of teamwork and thinking, to win the *"Best Product Award"* after designing a [product](https://catarinaburghi.xyz/blog/2021/03/31/stemathon) to help people from all ages with disabilities to go swimming safely! 
 
 Here is how you can reach me: 
 
@@ -19,16 +15,3 @@ My Email: cf.burghi@gmail.com
 
 [Twitter](https://twitter.com/catarinaburghi)
 <!--
-**catarinaburghi/catarinaburghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
